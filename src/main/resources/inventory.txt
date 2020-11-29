@@ -1,0 +1,4 @@
+A1 | Doritos | 1.00 | Chips
+B1|SourSkittles|1.15|Candy
+C1 | Rhino Chew | .25 | Gum
+D1|Sprite|1.25|Drinks
